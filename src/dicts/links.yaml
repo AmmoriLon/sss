@@ -1,0 +1,36 @@
+# ссылки на медиаматериал, используемый в боте
+# видеолекции
+video1: "https://vimeo.com/showcase/9606031"
+video2: "https://vimeo.com/showcase/9606031"
+video3: "https://vimeo.com/showcase/9606031"
+video4: "https://vimeo.com/showcase/9606031"
+video5: "https://vimeo.com/showcase/9606031"
+video6: "https://vimeo.com/showcase/9606031"
+video7: "https://vimeo.com/showcase/9606031"
+video8: "https://vimeo.com/showcase/9606031"
+
+# карточки уроков
+photo1: "https://248305.selcdn.ru/zfl_prod_ca/telegram/Zab02aAO6zoeHjDfOsHQFV/1000065235-trenik-1000065235-BtP-20941948458/YYlhWPPLWB.jpg"
+photo2: "https://248305.selcdn.ru/zfl_prod_ca/telegram/Zab02aAO6zoeHjDfOsHQFV/1000065235-trenik-1000065235-BtP-20941948458/mcZ0XdfLWS.jpg"
+photo3: "https://248305.selcdn.ru/zfl_prod_ca/telegram/Zab02aAO6zoeHjDfOsHQFV/1000065235-trenik-1000065235-BtP-20941948458/CZCAsxkUzq.jpg"
+photo4: "https://248305.selcdn.ru/zfl_prod_ca/telegram/Zab02aAO6zoeHjDfOsHQFV/1000065235-trenik-1000065235-BtP-20941948458/pdPPCgu4UF.jpg"
+photo5: "https://248305.selcdn.ru/zfl_prod_ca/telegram/Zab02aAO6zoeHjDfOsHQFV/1000065235-trenik-1000065235-BtP-20941948458/jmV5rM8qIW.jpg"
+photo6: "https://248305.selcdn.ru/zfl_prod_ca/telegram/Zab02aAO6zoeHjDfOsHQFV/1000065235-trenik-1000065235-BtP-20941948458/YNSzmze4AK.jpg"
+photo7: "https://248305.selcdn.ru/zfl_prod_ca/telegram/Zab02aAO6zoeHjDfOsHQFV/1000065235-trenik-1000065235-BtP-20941948458/W3D5lL3s43.jpg"
+photo8: "https://248305.selcdn.ru/zfl_prod_ca/telegram/Zab02aAO6zoeHjDfOsHQFV/1000065235-trenik-1000065235-BtP-20941948458/wfFH4uwXSm.jpg"
+
+# ссылки на презентации лекций
+conspektus1: "https://447906.selcdn.ru/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/Open/presentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%20%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82%201.pdf"
+conspektus2: "https://447906.selcdn.ru/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/Open/presentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%202.pdf"
+conspektus3: "https://447906.selcdn.ru/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/Open/presentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%2003.pdf"
+conspektus4: "https://447906.selcdn.ru/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/Open/presentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%2004.pdf"
+conspektus5: "https://447906.selcdn.ru/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/Open/presentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%2005.pdf"
+conspektus6: "https://447906.selcdn.ru/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/Open/presentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%2006.pdf"
+conspektus8: "https://447906.selcdn.ru/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD/Open/presentation/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%2008%20(1).pdf"
+
+# ссылка на расписание
+schedule: "https://coda.io/d/Conversation-AI-Python_d3IcXJ0R0ky/_sulQq#_luqv4"
+
+# ссылки на стартовую и справочную картинки
+start_picture: "AgACAgIAAxkBAAICm2QAAUno1sD4G9YJHUYyz_NsKXnYSwAC-cQxG7_DCEhUw_OiNtmfQAEAAwIAA3kAAy4E"
+help_picture: "AgACAgIAAxkBAAIDjWQCBlk1tgABg1Ycom7-SCfaIQmPDgAC_sYxG8pqEEhiL8GixCzSHQEAAwIAA3gAAy4E"
